@@ -5,21 +5,9 @@ menu:
   - name: Buyers
     link:
     menu:
-      - name: Search the MLS
-        link: https://search.idxhome.com/homesearch/132970
-        menu:
-      - name: IDX Property Organizer
-        link: https://search.idxhome.com//organizer/login/132970
-        menu:
-      - name: Listings
-        link: /listings/
-        menu:
-  - name: Sellers
-    link:
+  - name: Home Valuation
+    link: /home-valuation/
     menu:
-      - name: Home Valuation
-        link: /home-valuation
-        menu:
   - name: Contact
     link: /contact
     menu:
