@@ -1,8 +1,8 @@
 ---
 slideshow_settings:
-  slide_animation: push
+  slide_animation: fade
   enable_autoplay: true
-  enable_ken_burns_effect: false
+  enable_ken_burns_effect: true
   enable_black_text: false
   enable_idx_search: true
   enable_default_search: false
