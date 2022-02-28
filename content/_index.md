@@ -28,7 +28,7 @@ home_sections:
     heading: Meet Your Realtor
     body: >-
       I love discovering new property and its potential for clients. I love to
-      help clients find their starter home, forever home, or investment.
+      help clients find their starter home, forever home, or investment.&nbsp;
 
 
       I will work tirelessly for you, I am your trusted resource for contract
