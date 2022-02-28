@@ -15,12 +15,11 @@ video_background:
   button_link: /listings
   enable_black_text: false
 slideshow:
-  - heading: Vesper Main Template
-    subtitle:
+  - heading: Find the perfect home in Colorado
+    subtitle: Colorado Real Estate Resource
     link_label: Read More
     link: https://www.hungryram.com
-    image: >-
-      https://res.cloudinary.com/hungryram19/image/upload/v1630458883/templates/realestate2/shutterstock_12168997453_dgp9fa.jpg
+    image: /uploads/homes-in-colorado.jpg
     body:
     enable_white_text: false
 home_sections:
