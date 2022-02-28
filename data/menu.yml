@@ -5,9 +5,15 @@ menu:
   - name: Buyers
     link:
     menu:
-  - name: Home Valuation
-    link: /home-valuation/
-    menu:
   - name: Contact
     link: /contact
     menu:
+  - name: Resources
+    link:
+    menu:
+      - name: Office
+        link: /offices/colorado-ranch-home-realty/
+        menu:
+      - name: Home Valuation
+        link: /home-valuation/
+        menu:
