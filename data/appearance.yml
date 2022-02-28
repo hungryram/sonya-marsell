@@ -1,7 +1,7 @@
 branding:
   site_title: Colorado Ranch & Home Realty
   logo: /uploads/colorado-ranch-and-home-realty.png
-  dark_logo:
+  dark_logo: /uploads/colorado-ranch-and-home-realty.png
   favicon:
   logo_width: 200
 icons:
